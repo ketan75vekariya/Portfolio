@@ -8,18 +8,15 @@ const Hero = () => {
           <div className="lg:w-2/3 w-full animate-fade-in-down">
             {/* Change the heading text */}
             <h1 className="md:text-6xl text-3xl mb-2 font-bold text-white tracking-tight leading-tight">
-              Hello World!, I&apos;m Ketan.
+              Hello World!,
             </h1>
             {/* Change the subheading text */}
             <h1 className="md:text-6xl text-3xl mb-4 font-bold text-white tracking-tight leading-tight">
-              I am a Full-stack Developer{" "}
-              <span className="border-b-4 border-green-400 -mb-20" />
-              with your questions.
+              I am a Full-stack Developer,
             </h1>
             {/* Change the paragraph text */}
             <p className="mt-8 mb-16 md:leading-relaxed leading-normal text-white tracking-tight text-xl">
-              I am a Web developer. I&apos;m here to provide information and
-              answer your queries to the best of my abilities.
+              a passionate software Engineer and technology enthusiast.
             </p>
             {/* Update the button texts and links */}
             <a
